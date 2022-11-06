@@ -3,7 +3,7 @@ from utils import download_image
 import os
 
 imgpath = "F:/Pro Documents/The Leet AI/APIs/OpenAI/images/"
-prompt = "Morrocan hacker drinking tea in the moon super realistic, 4k"
+prompt = "character design a girl with diamond hair, mist volumetric lightning, black and teal, hyper realistic, 4k, super realistic"
 imgname = (prompt if len(prompt) < 256 else prompt[:256]) +".png"
 
 response = openai.Image.create(

@@ -1,0 +1,74 @@
+{
+  "categories": [
+    {
+      "name": "nsfw",
+      "concepts": [
+        {
+          "concept": "sexual",
+          "threshold": 0.1541748
+        },
+        {
+          "concept": "nude",
+          "threshold": 0.14318848
+        },
+        {
+          "concept": "sex",
+          "threshold": 0.16931152
+        },
+        {
+          "concept": "18+",
+          "threshold": 0.17907715
+        },
+        {
+          "concept": "naked",
+          "threshold": 0.16125488
+        },
+        {
+          "concept": "nsfw",
+          "threshold": 0.1529541
+        },
+        {
+          "concept": "porn",
+          "threshold": 0.15356445
+        },
+        {
+          "concept": "dick",
+          "threshold": 0.15197754
+        },
+        {
+          "concept": "vagina",
+          "threshold": 0.1595459
+        },
+        {
+          "concept": "explicit content",
+          "threshold": 0.13500977
+        },
+        {
+          "concept": "uncensored",
+          "threshold": 0.15759277
+        },
+        {
+          "concept": "fuck",
+          "threshold": 0.1496582
+        },
+        {
+          "concept": "nipples",
+          "threshold": 0.14465332
+        },
+        {
+          "concept": "visible nipples",
+          "threshold": 0.14794922
+        },
+        {
+          "concept": "naked breasts",
+          "threshold": 0.16320801
+        },
+        {
+          "concept": "areola",
+          "threshold": 0.14331055
+        }
+      ]
+    }
+  ],
+  "realizedAction": "ACTION_PASSTHROUGH"
+}

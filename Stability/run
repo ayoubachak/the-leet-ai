@@ -1,0 +1,1 @@
+python -m stability_sdk.client -W 512 -H 512 "A stunning house."
